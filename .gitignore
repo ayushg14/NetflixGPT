@@ -6,7 +6,7 @@
 .pnp.js
 
 # # Firebase configuration file
-../utils/firebaseConfig.js
+../utils/firebase.js
 
 # testing
 /coverage
